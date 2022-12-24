@@ -1,0 +1,29 @@
+baseURL = 'https://jythonscript.github.io'
+languageCode = 'en-us'
+title = ''
+theme = 'hugo-coder'
+
+[params]
+author = "Avery Bartnik"
+info = ""
+description = "Avery Bartnik's personal website"
+colorScheme = "auto"
+hidecolorschemetoggle = false
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-github fa-2x"
+weight = 1
+url = "https://github.com/jythonscript"
+
+[[params.social]]
+name = "Linkedin"
+icon = "fa fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/avery-bartnik-352313159/"
+
+[[params.social]]
+name = "Email"
+icon = "fa fa-envelope fa-2x"
+weight = 3
+url = "mailto:bartnik314@gmail.com"
